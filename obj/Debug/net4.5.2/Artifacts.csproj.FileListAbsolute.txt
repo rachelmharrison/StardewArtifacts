@@ -1,0 +1,5 @@
+/Users/rachelharrison/Documents/Mods/Artifacts/obj/Debug/net4.5.2/Artifacts.csproj.AssemblyReference.cache
+/Users/rachelharrison/Documents/Mods/Artifacts/obj/Debug/net4.5.2/Artifacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachelharrison/Documents/Mods/Artifacts/obj/Debug/net4.5.2/Artifacts.AssemblyInfoInputs.cache
+/Users/rachelharrison/Documents/Mods/Artifacts/obj/Debug/net4.5.2/Artifacts.AssemblyInfo.cs
+/Users/rachelharrison/Documents/Mods/Artifacts/obj/Debug/net4.5.2/Artifacts.csproj.CoreCompileInputs.cache

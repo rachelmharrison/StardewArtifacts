@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/NjKPQ8kgEw8MmHaZafbKIkm8Lzjl3ojCF1UBa46u1Snuq/xWnv5Nl5X9Xfyyc3vUC7kZ2V2SfSjOdC3YXl5rg==",
+  "success": true,
+  "projectFilePath": "/Users/rachelharrison/Documents/Mods/Artifacts/Artifacts.csproj",
+  "expectedPackageFiles": [
+    "/Users/rachelharrison/.nuget/packages/pathoschild.stardew.modbuildconfig/4.1.1/pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512",
+    "/Users/rachelharrison/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/rachelharrison/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
